@@ -41,7 +41,7 @@ This is a collection of small projects I built while practicing JavaScript basic
 ---
 
 ## 📸 Preview
-![Preview](1000118025.jpg)  
+![Preview](127.0.0.1_5500_index.html.png)  
 
 ---
 
